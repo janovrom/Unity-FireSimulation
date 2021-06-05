@@ -1,1 +1,2 @@
 # Unity-FireSimulation
+Test project for package [fire-simulation](https://github.com/janovrom/fire-simulation). It uses the UI and sample scenes from the package. One more scene with 10000 trees was added with some simple scene loading as well.
