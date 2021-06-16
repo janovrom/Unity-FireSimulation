@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6312a942ecfd48f4287a7a5da09636ea, type: 3}
+  m_Name: MediumFireLevel
+  m_EditorClassIdentifier: 
+  Scenes:
+  - {fileID: 11400000, guid: 3bf67734088c0c046a57ebc7bc7541e1, type: 2}
+  - {fileID: 11400000, guid: 88e7805ac8cf89c499475399f54600b9, type: 2}
+  - {fileID: 11400000, guid: b25f4cbbb0bbe7545af273425a907f29, type: 2}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc611582b3b7fc242a4074ed9d2123b0, type: 3}
+  m_Name: SceneAssetManager
+  m_EditorClassIdentifier: 
+  MenuLevel: {fileID: 11400000, guid: f46d059b753e202409a662dae5cd41ce, type: 2}
+  SmallFireLevel: {fileID: 11400000, guid: 97b32e0f5f304b046964e0cd5963f511, type: 2}
+  MediumFireLevel: {fileID: 11400000, guid: 1cd821d95b14e49478b9bc813f03fa62, type: 2}
+  LargeFireLevel: {fileID: 11400000, guid: c5799b80640cd9047987f2a94850681c, type: 2}

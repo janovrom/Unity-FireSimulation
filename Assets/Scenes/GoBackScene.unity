@@ -304,9 +304,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11400000, guid: f43b7eafefd9c6f4eba2170f47c197ed, type: 2}
-        m_TargetAssemblyTypeName: SharedSceneManager, Assembly-CSharp
-        m_MethodName: GoToMenu
+      - m_Target: {fileID: 11400000, guid: aa5daeaa33f68bf4aa93175a3360a54c, type: 2}
+        m_TargetAssemblyTypeName: SceneAssetManager, Assembly-CSharp
+        m_MethodName: LoadMenu
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

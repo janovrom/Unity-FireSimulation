@@ -3,11 +3,11 @@
 public class DefaultSceneLoader : MonoBehaviour
 {
 
-    public SharedSceneManager Manager;
+    public SceneAssetManager SceneAssetManager;
 
-    void Awake()
+    void Start()
     {
-        Manager.LoadMenu();
+        SceneAssetManager.LoadMenu();
     }
 
 }
